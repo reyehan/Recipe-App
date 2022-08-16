@@ -11,6 +11,11 @@ Italian food
 
 <img width="835" alt="3" src="https://user-images.githubusercontent.com/92879200/184938862-5c04cc8f-b487-4c53-a8f7-bb74feb2e46b.png">
 
+American food
+
+<img width="835" alt="4" src="https://user-images.githubusercontent.com/92879200/184939154-673d2830-b913-49b9-8b37-e441ac4b4c01.png">
+
+
 
 ## Available Scripts
 
