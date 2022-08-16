@@ -15,6 +15,10 @@ American food
 
 <img width="835" alt="4" src="https://user-images.githubusercontent.com/92879200/184939154-673d2830-b913-49b9-8b37-e441ac4b4c01.png">
 
+Thai food
+
+<img width="835" alt="5" src="https://user-images.githubusercontent.com/92879200/184939357-918727ba-c056-443d-840f-b85538f5a931.png">
+
 
 
 ## Available Scripts
