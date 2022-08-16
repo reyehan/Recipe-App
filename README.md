@@ -23,6 +23,10 @@ Search box
 
 <img width="835" alt="6" src="https://user-images.githubusercontent.com/92879200/184939619-5f5375b5-4a6b-4d1d-8132-fb1350747520.png">
 
+Recipe of food
+
+<img width="835" alt="7" src="https://user-images.githubusercontent.com/92879200/184939843-e4e918a3-7b5d-402b-b0b3-50b741f00639.png">
+
 
 
 ## Available Scripts
