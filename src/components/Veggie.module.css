@@ -1,0 +1,26 @@
+.popular {
+   margin: 4rem 0rem;
+   line-height: 2rem;
+   max-height: 100px;
+}
+
+.title {
+   min-height: 25rem;
+   border-radius: 2rem;
+   position: absolute;
+   z-index: 2;
+
+}
+
+img {
+   min-height: 13rem;
+   border-radius: 2rem;
+   overflow: hidden;
+   width: 200px;
+   position: relative;
+
+}
+
+.popularMenu {
+   line-height: 2rem;
+}
