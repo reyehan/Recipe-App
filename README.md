@@ -19,6 +19,10 @@ Thai food
 
 <img width="835" alt="5" src="https://user-images.githubusercontent.com/92879200/184939357-918727ba-c056-443d-840f-b85538f5a931.png">
 
+Search box
+
+<img width="760" alt="6" src="https://user-images.githubusercontent.com/92879200/184939619-5f5375b5-4a6b-4d1d-8132-fb1350747520.png">
+
 
 
 ## Available Scripts
