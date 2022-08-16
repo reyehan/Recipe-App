@@ -6,6 +6,9 @@ Home page
 
 
 <img width="835" alt="11" src="https://user-images.githubusercontent.com/92879200/184938238-f1ff963a-e140-4c3d-b235-abfca874844d.png">
+
+<img width="849" alt="2" src="https://user-images.githubusercontent.com/92879200/184938587-f34e482e-8e1d-4717-8f9e-ec5c86cfcd45.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
