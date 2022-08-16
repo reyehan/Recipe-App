@@ -7,6 +7,10 @@ Home page
 
 <img width="835" alt="11" src="https://user-images.githubusercontent.com/92879200/184938238-f1ff963a-e140-4c3d-b235-abfca874844d.png">
 
+Italian food
+
+<img width="835" alt="3" src="https://user-images.githubusercontent.com/92879200/184938862-5c04cc8f-b487-4c53-a8f7-bb74feb2e46b.png">
+
 
 ## Available Scripts
 
