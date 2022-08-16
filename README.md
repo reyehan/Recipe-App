@@ -21,7 +21,7 @@ Thai food
 
 Search box
 
-<img width="760" alt="6" src="https://user-images.githubusercontent.com/92879200/184939619-5f5375b5-4a6b-4d1d-8132-fb1350747520.png">
+<img width="835" alt="6" src="https://user-images.githubusercontent.com/92879200/184939619-5f5375b5-4a6b-4d1d-8132-fb1350747520.png">
 
 
 
